@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hthq/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Source](http://hthqgroup.com/ "Permalink to HTHQ MGMT | Artist Management")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# HTHQ MGMT | Artist Management
 
-### Markdown
+[ ![][1] ][2]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BeauDamian 
 
-```markdown
-Syntax highlighted code block
+[ ![][3] ][4]
 
-# Header 1
-## Header 2
-### Header 3
+BläpDëli 
 
-- Bulleted
-- List
+[ ![][5] ][6]
 
-1. Numbered
-2. List
+Bleep Bloop 
 
-**Bold** and _Italic_ and `Code` text
+[ ![][7] ][8]
 
-[Link](url) and ![Image](src)
-```
+ChrisB. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[ ![][9] ][10]
 
-### Jekyll Themes
+Gladkill 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hthq/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[ ![][11] ][12]
 
-### Support or Contact
+GoldRush 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[ ![][13] ][14]
+
+IHF 
+
+[ ![][15] ][16]
+
+NiT GRiT 
+
+[ ![][17] ][18]
+
+PROKO 
+
+[ ![][19] ][20]
+
+Sayer 
+
+[ ![][21] ][22]
+
+V-IV 
+
+[ ![][23] ][24]
+
+X&G 
+
+[1]: http://hthqgroup.com/wp-content/uploads/2015/04/BeauDamian-Promo-Photo-1-400x284.jpg
+[2]: http://hthqgroup.com/wp-content/uploads/2015/04/BeauDamian-Promo-Photo-1.jpg ""
+[3]: http://hthqgroup.com/wp-content/uploads/2015/04/BlapDeli-photo-400x284.jpg
+[4]: http://hthqgroup.com/wp-content/uploads/2015/04/BlapDeli-photo.jpg ""
+[5]: http://hthqgroup.com/wp-content/uploads/2015/04/Bleep-Bloop-Promo-Photo-2016.2-web-400x284.jpg
+[6]: http://hthqgroup.com/wp-content/uploads/2015/04/Bleep-Bloop-Promo-Photo-2016.2-web.jpg ""
+[7]: http://hthqgroup.com/wp-content/uploads/2016/01/ChrisB.-Promo-Photo-1-400x284.jpg
+[8]: http://hthqgroup.com/wp-content/uploads/2016/01/ChrisB.-Promo-Photo-1.jpg ""
+[9]: http://hthqgroup.com/wp-content/uploads/2015/06/Gladkill-Promo-Photo-21-400x284.jpg
+[10]: http://hthqgroup.com/wp-content/uploads/2015/06/Gladkill-Promo-Photo-21.jpg ""
+[11]: http://hthqgroup.com/wp-content/uploads/2015/06/GoldRush-Live-Photo-400x284.jpg
+[12]: http://hthqgroup.com/wp-content/uploads/2015/06/GoldRush-Live-Photo.jpg ""
+[13]: http://hthqgroup.com/wp-content/uploads/2015/04/Imagined-Herbal-Flows-IHF-Live-Promo-Photo-4-400x284.jpg
+[14]: http://hthqgroup.com/wp-content/uploads/2015/04/Imagined-Herbal-Flows-IHF-Live-Promo-Photo-4.jpg ""
+[15]: http://hthqgroup.com/wp-content/uploads/2015/06/NiT-GriT-Promo-Photo-400x284.jpg
+[16]: http://hthqgroup.com/wp-content/uploads/2015/06/NiT-GriT-Promo-Photo.jpg ""
+[17]: http://hthqgroup.com/wp-content/uploads/2015/04/PROKO-Live-Photo-400x284.jpeg
+[18]: http://hthqgroup.com/wp-content/uploads/2015/04/PROKO-Live-Photo.jpeg ""
+[19]: http://hthqgroup.com/wp-content/uploads/2016/01/11334161_10153883231268047_2056388067776054419_o-400x284.jpg
+[20]: http://hthqgroup.com/wp-content/uploads/2016/01/11334161_10153883231268047_2056388067776054419_o.jpg ""
+[21]: http://hthqgroup.com/wp-content/uploads/2016/01/Jobot_39-400x284.jpg
+[22]: http://hthqgroup.com/wp-content/uploads/2016/01/Jobot_39.jpg ""
+[23]: http://hthqgroup.com/wp-content/uploads/2015/04/XG-Promo-Photo-02-400x284.jpg
+[24]: http://hthqgroup.com/wp-content/uploads/2015/04/XG-Promo-Photo-02.jpg ""
+
+  
